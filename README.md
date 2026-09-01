@@ -19,7 +19,7 @@ I enjoy working with real-world datasets, identifying patterns, building interac
 
 ## 🚀 Featured Project
 
-### 📊 Indian Tech Job Market Analysis
+### 📊 [Indian Tech Job Market Analysis](https://github.com/Sagar-Gupta008/indian-tech-job-market-analysis)
 
 An end-to-end data analytics project analyzing **22,000+ Indian tech job postings** to uncover trends in hiring, salaries, skills, experience requirements, companies, and remote opportunities.
 
