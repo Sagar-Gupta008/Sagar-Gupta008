@@ -1,7 +1,7 @@
 # Hi, I'm Sagar Gupta 👋
 
 ### Data Analyst | SQL • Power BI • Python • Excel
-I'm an aspiring **Data Analyst based in Delhi, India**, focused on transforming raw data into meaningful business insights through analysis, visualization, and reporting.
+I'm a **Data Analyst based in Delhi, India**, focused on transforming raw data into meaningful business insights through analysis, visualization, and reporting.
 
 I enjoy working with real-world datasets, identifying patterns, building interactive dashboards, and solving business problems using data.
 
