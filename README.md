@@ -56,6 +56,7 @@ Interactive Power BI dashboard analyzing sales, profit, customer segments, produ
 ### 🌸 [Ferns & Petals Sales Analysis](https://github.com/Sagar-Gupta008/ferns-and-petals-sales-analysis)
 
 Excel-based sales analysis evaluating revenue, occasions, products, customer behavior, order trends, and delivery performance.
+
 ---
 
 ## 🎯 What I'm Currently Working On
