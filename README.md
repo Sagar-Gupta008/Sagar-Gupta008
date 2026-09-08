@@ -37,15 +37,25 @@ An end-to-end data analytics project analyzing **22,000+ Indian tech job posting
 
 ## 📈 Other Projects
 
-### 🍕 Pizza Sales Analysis
-SQL and Power BI analysis of pizza sales data to identify revenue trends, product performance, and customer ordering patterns.
+### 💻 [Laptop Price Prediction](https://github.com/Sagar-Gupta008/laptop-price-prediction)
 
-### 📦 Superstore Sales Dashboard
-Interactive Power BI dashboard analyzing sales, profit, categories, regions, and business performance.
+End-to-end machine learning project covering data preprocessing, feature engineering, regression model comparison, and laptop price prediction through a lightweight Streamlit interface.
 
-### 💳 Credit Card Financial Dashboard
-Power BI dashboard focused on financial KPIs, customer behavior, and transaction analysis.
+### 🛒 [Target E-Commerce Data Analysis](https://github.com/Sagar-Gupta008/target-ecommerce-data-analysis)
 
+Python and SQL analysis of e-commerce data to uncover sales trends, customer behavior, payment patterns, seller performance, and business insights.
+
+### 🍕 [Pizza Sales Analysis](https://github.com/Sagar-Gupta008/pizza-sales-analysis)
+
+SQL Server and Power BI analysis of pizza sales data to identify revenue trends, product performance, and customer ordering patterns.
+
+### 📦 [Superstore Sales Dashboard](https://github.com/Sagar-Gupta008/superstore-sales-dashboard)
+
+Interactive Power BI dashboard analyzing sales, profit, customer segments, product categories, regional performance, and sales forecasting.
+
+### 🌸 [Ferns & Petals Sales Analysis](https://github.com/Sagar-Gupta008/ferns-and-petals-sales-analysis)
+
+Excel-based sales analysis evaluating revenue, occasions, products, customer behavior, order trends, and delivery performance.
 ---
 
 ## 🎯 What I'm Currently Working On
